@@ -2,10 +2,10 @@
 
 ## Contents
 1. Three.js
-2. Menambahkan Loader 
-    GLTF
-    OBJ dengan MTL
-    FBX
+2. Menambahkan Loader
+   - GLTF
+   - OBJ dengan MTL
+   - FBX
 
 ### Three.js
 ``Three.js`` adalah JavaScript library open-source yang dapat digunakan untuk membuat dan menampilkan 3D animasi grafik berbasis WebGL (Web Graphic Library). Dengan ``Three.js`` rendering dapat dilakukan secara real-time serta menambah efek visual dengan lebih mudah tanpa menuliskan kode WebGL yang panjang. 
