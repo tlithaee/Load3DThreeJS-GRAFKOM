@@ -23,6 +23,7 @@ Untuk menampilkan ``Three.js``, dapat menggunakan beberapa loader sesuai dengan 
 - GLTF Loader: Untuk file ``.gltf`` (JSON format) atau ``.glb`` (binary format, format modern dan efisien untuk web).
 - OBJ/MTL Loader: Untuk file ``.obj`` dan ``.mtl``.
 ```
+<script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/loaders/GLTFLoader.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/loaders/FBXLoader.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/loaders/MTLLoader.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/three@0.132.2/examples/js/loaders/OBJLoader.js"></script>
